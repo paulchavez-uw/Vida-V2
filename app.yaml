@@ -1,0 +1,12 @@
+runtime: nodejs
+env: flex
+
+env_variables:
+  # --REQUIRED--
+
+  APP_ID: LocalPlusV1
+
+  # --OPTIONAL--
+  # FILE_KEY: <your-file-key>
+  # PARSE_MOUNT: /parse
+  # CLOUD_CODE_MAIN:  
